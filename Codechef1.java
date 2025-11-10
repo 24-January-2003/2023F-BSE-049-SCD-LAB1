@@ -1,5 +1,6 @@
 class Codechef1{
 	public static void main (String[] args){
+		//this is Lab 1
 		int a = -5; 
 		System.out.println(a);
 		
@@ -13,3 +14,4 @@ class Codechef1{
 		System.out.print(array[0]);
 	}
 }
+
